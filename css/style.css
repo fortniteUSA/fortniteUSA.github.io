@@ -170,7 +170,7 @@ h1 {
 }
 
 .image-bg-fluid-height {
-	background: url('../img/bg.jpg') no-repeat center center scroll;
+	background: url('../img/bg.png') no-repeat center center scroll;
     background-size: cover;
     padding: 100px 0;
     padding-left: 20px;
